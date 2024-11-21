@@ -1,2 +1,4 @@
 # 596_final
 Final Project for CSCI 596 Scientific Computing and Visualization
+
+Create a GitHub repository [1,2] containing your final project by Friday, December 13 — submit the URL of your GitHub repository to Brightspace (for a team project, every team member needs to submit the identical URL of the team repository individually for grading purpose). In addition, a brief (~one minute) informal presentation on your project is required in class on December 2 (Mon), 4 (Wed) or 6 (Fri). The presentation is just an outline of the project — what is the problem, what methods were used, and what are the expected results — you are only allowed to show your preliminary GitHub repository. Also, please discuss with me to agree on the topic of your project (during office hours) by Friday, November 22.
