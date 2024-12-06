@@ -14,4 +14,4 @@ Turning the results into heat maps can help us determine what is actually happen
 
 # Results
 We made a simple tool with several options to analyze and visualize the processes ResNet and ViT analysis go through.
-Using this tool, we can overlay a selected feature map and ViT map to visualize where a particular feature map is looking, helping us determine what the feature map is looking for.  
+Using this tool, we can overlay a selected feature map and attention map layer to visualize where a particular feature map is looking, helping us determine what the feature map is looking for.  
