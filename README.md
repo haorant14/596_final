@@ -8,7 +8,7 @@ ResNet and ViT analysis are deep learning algorithms used to identify and classi
 However, it can be difficult to determine what the deep learning algorithm is actually doing.
 
 # Methods
-Visualizing the feature maps and ViT analysis helps us understand what is actually happening.
+Visualizing the ResNet feature maps and ViT analysis attention maps helps us understand what is actually happening.
 By performing feature extraction, we can get the feature maps ResNet uses and the attention map layers from ViT analysis.
 Turning the results into heat maps can help us determine what is actually happening.
 
